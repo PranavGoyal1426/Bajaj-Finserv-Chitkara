@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 dotenv.config();
-const OFFICIAL_EMAIL = "ansh0371.be23@chitkara.edu.in";
+const OFFICIAL_EMAIL = "pranav1426.be23@chitkara.edu.in";
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
 // Helper Functions
